@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h3 {
+    background-color: #edf0f1;
+    padding-left: 40px;
+    padding-top: 30px;
+    padding-bottom: 0px;
+    font-family: Calibri;
+    font-size: 20px;
+}
+
+.block_general {
+font-size: 9px;
+color: #edf0f1;
+font-family: Calibri;
+background-color: #edf0f1;
+padding: 10px;
+}
+
+.block {
+background-color: #34495e;
+border-radius: 20px;
+padding: 21px;
+margin: 20px;
+font-size: 15px;
+}
